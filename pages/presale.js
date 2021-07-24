@@ -40,7 +40,7 @@ export default function Mint() {
 
       <div >
           <div className="flex items-center justify-between w-full border-b-2	pb-6">
-            <a href="/" className=""><img src="images/Home.png" width="108" alt="" className="logo-image" /></a>
+            <a href="/" className=""><img src="images/home.png" width="108" alt="" className="logo-image" /></a>
             <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
             <a href="" className="text-4xl  hover:text-white m-6 text-blau"></a>
               <a href="#about" className="text-5xl text-white hover:text-black m-6">About</a>   

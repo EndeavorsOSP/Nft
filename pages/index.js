@@ -54,7 +54,7 @@ export default function Home() {
                     <p className="text-2xl text-black my-6  montserrat">
                     <strong>PreSale Begins:</strong> 25 July 2021. 2pm EST. <br />‍
                     <span className="text-white text-2xl montserrat"><strong>TOTAL SUPPLY: 1,530,000 </strong> qSpace.<br/><strong>PreSale Supply:</strong> 765,000 <br /><strong>PRICE: 1 BNB =  </strong>120 qSpace</span></p>
-                    <iframe src="https://free.timeanddate.com/countdown/i7wojrty/cf12/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw320/szh135/tac000/tpc000/mac000/mpc000/iso2021-07-26T00:00:00" allowtransparency="true" frameborder="0" width="116" height="50"></iframe>
+                    <iframe src="https://free.timeanddate.com/countdown/i7wokvop/cf11/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/tac000/tpc000/mac000/mpc000/iso2021-07-25T00:00:00" allowtransparency="true" frameborder="0" width="290" height="38"></iframe>
 
                   </div>
                   <img className="lg:w-1/2 w-3/4" src="images/Hola.gif" width="500px" />

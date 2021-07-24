@@ -43,10 +43,10 @@ export default function Mint() {
             <a href="/" className=""><img src="images/home.png" width="108" alt="" className="logo-image" /></a>
             <nav className="flex flex-wrap flex-row justify-around Poppitandfinchsans">
             <a href="" className="text-4xl  hover:text-white m-6 text-blau"></a>
-              <a href="#about" className="text-5xl text-white hover:text-black m-6">About</a>   
-              <a href="#roadmap" className="text-5xl text-white hover:text-black m-6">Roadmap</a>
+              <a href="/" className="text-5xl text-white hover:text-black m-6">About</a>   
+              <a href="/" className="text-5xl text-white hover:text-black m-6">Roadmap</a>
               <a href="/presale" className="text-8xl text-white hover:text-black m-6">Pre~Sale</a>  
-              <a href="#contact" className="text-5xl text-white hover:text-black m-6">Contact</a>
+              <a href="/" className="text-5xl text-white hover:text-black m-6">Contact</a>
               <a href="https://twitter.com/polyspacefarm" className="text-5xl  hover:text-black m-6 text-blau">TWITTER</a>
               <a href="" className="text-4xl  hover:text-white m-6 text-blau"></a>
             </nav>

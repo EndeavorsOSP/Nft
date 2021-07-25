@@ -32,7 +32,7 @@ export default function Home() {
               <a href="#about" className="text-5xl text-white hover:text-black m-6">About</a>   
               <a href="#roadmap" className="text-5xl text-white hover:text-black m-6">Roadmap</a>
               <a href="presale" className="text-8xl text-white hover:text-black m-6">Pre~Sale</a>  
-              <a href="#contact" className="text-5xl text-white hover:text-black m-6">Contact</a>
+              <a href="index.html" className="text-5xl text-white hover:text-black m-6"> NFT Generator (WORK IN PROG.)</a>
               <a href="https://twitter.com/polyspacefarm" className="text-5xl  hover:text-black m-6 text-blau">TWITTER</a>
               <a href="" className="text-4xl  hover:text-white m-6 text-blau"></a>
             </nav>
@@ -103,7 +103,7 @@ export default function Home() {
                 As the qSpaceNative LP increases, the price stability mirrors this function with the benefit of a solid price floor and cushion for holders. The goal here is to prevent the larger dips when whales decide to sell their tokens later in the game, which keeps the price from fluctuating as much as if there was no automatic LP function.  </li>
 
                 <li className="text-3xl text-white my-6 text-center  montserrat"><span className="underline font-bold">  <a target="_blank" className=" text-blau font-bold"> 5% fee = redistributed to all existing holders
-5% fee is split 50/50 half of which is sold by the contract into BNB, while the other half of the SAFEMOON tokens are paired automatically with the previously mentioned BNB and added as a liquidity pair on Pancake Swap. </a> </span></li>
+5% fee is split 50/50 half of which is sold by the contract into BNB, while the other half of the tokens are paired automatically with the previously mentioned BNB and added as a liquidity pair on Pancake Swap. </a> </span></li>
               </ul>
               
               

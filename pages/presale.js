@@ -57,11 +57,11 @@ export default function Mint() {
         <h1  className="  text-7xl Poppitandfinchsans text-black hover:text-black "><br/><span className="hover:text-black text-blau">Round One of Presale Has Begun! </span></h1>
               <div id="mint" className="flex justify-around  mt-8 mx-6"></div>
                 <div  className=" p-4"><img src="images/QR.png" alt="" width="400px"  className="feature-image"/></div>
-                <a href="https://bscscan.com/address/0x6e226bbc977ae5c3764d594f69468002cf7460db#writeContract" className="text-5xl text-white hover:text-black m-6">0x6E226bBc977Ae5C3764D594f69468002Cf7460Db</a>
+                <a href="https://bscscan.com/address/0xf179f7322efcca0a6011bd5c71790932a4e87af5#writeContract" className="text-5xl text-white hover:text-black m-6">0xf179f7322eFcca0a6011BD5c71790932A4E87Af5</a>
                 <h2 className="text-black Poppitandfinchsans text-6xl text-center">To Participate in our presale follow the instructions below!</h2>
                
                
-                <li className="text-3xl text-blau my-6  montserrat"><span className="font-bold"> <a target="_blank" href="https://bscscan.com/address/0x6e226bbc977ae5c3764d594f69468002cf7460db#writeContract" className="underline text-blau font-bold"> If you are familiar with Contracts you can interact with ours and purchase! </a> </span></li>
+                <li className="text-3xl text-blau my-6  montserrat"><span className="font-bold"> <a target="_blank" href="https://bscscan.com/address/0xf179f7322efcca0a6011bd5c71790932a4e87af5#writeContract" className="underline text-blau font-bold"> If you are familiar with Contracts you can interact with ours and purchase! </a> </span></li>
                
                
                 <li className="text-black Poppitandfinchsans text-5xl text-center">1. Copy the Contract address or take a photo of the QR above!</li>

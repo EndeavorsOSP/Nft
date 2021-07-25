@@ -67,7 +67,7 @@ export default function Mint() {
                 <li className="text-black Poppitandfinchsans text-5xl text-center">1. Copy the Contract address or take a photo of the QR above!</li>
                
                
-                <li className="text-black Poppitandfinchsans text-5xl text-center">2. Send desired amount of BNB!</li>
+                <li className="text-black Poppitandfinchsans text-5xl text-center">2. Send desired amount of BNB! 0.01 BNB Upwards to 25 BNB</li>
                
                
                 <li className="text-black Poppitandfinchsans text-5xl text-center">3. Within minutes you will recieve your tokens from the contract!</li>

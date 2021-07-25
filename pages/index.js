@@ -31,8 +31,7 @@ export default function Home() {
             <a href="" className="text-4xl  hover:text-white m-6 text-blau"></a>
               <a href="#about" className="text-5xl text-white hover:text-black m-6">About</a>   
               <a href="#roadmap" className="text-5xl text-white hover:text-black m-6">Roadmap</a>
-              <a href="presale" className="text-7xl text-white hover:text-black m-6">Pre~Sale</a> 
-              <a href="https://pancakeswap.finance/swap?outputCurrency=0x0d635AC7Db6B2E203B715d4Aa1c0B7A9f6F63974" className="text-7xl  hover:text-black m-6 text-blau">BUY now on PCS!</a> 
+              <a href="presale" className="text-8xl text-white hover:text-black m-6">Pre~Sale</a> 
               <a href="#roadmap" className="text-5xl text-white hover:text-black m-6">Contact</a>
               <a href="https://twitter.com/polyspacefarm" className="text-5xl  hover:text-black m-6 text-blau">TWITTER</a>
               
@@ -68,7 +67,7 @@ export default function Home() {
                     <br/><strong>PreSale Supply:</strong> 393750000000000 <br /><strong>PRICE: 1 BNB =  </strong>787500000000 $qSpace</span></p>
                     
                     <p className="text-2xl text-black my-6  montserrat">
-                    <strong>PreSale Round one Limits:</strong> ONLY 1 BNB upwards to 25 BNB!
+                    <strong>PreSale Round one Limits:</strong> ONLY 0.01 BNB upwards to 25 BNB!
                     <br /><strong></strong><br /> </p>
 
                   </div>
@@ -132,8 +131,8 @@ export default function Home() {
                   <div className=" p-4"><img src="images/letstalk.png" alt="" width="400px" className="feature-image"/></div>
                   <div className="flex flex-col justify-between mx-6 sm:w-1/2 w-4/5 py-6 ">
                     <h2 className="text-black Poppitandfinchsans text-6xl text-center">CONTACT THE PolySpace RESEARCH TEAM</h2>
-                    <p className="text-xl text-white my-6  montserrat"> We'd love to hear your concerns! 
-                    </p>
+                    <p className="text-xl text-white my-6  montserrat"> We'd love to hear your concerns! </p>
+                    
                     <p className="text-xl text-white my-6  montserrat"> Drop us a message at <a className="text-black underline font-bold" target="_blank" href="mailto:polyspacefarms@gmail.com">polyspacefarms@gmail.com</a>,<br/>
                     or alternatively reach out to us on Twitter <a className="text-black underline font-bold" target="_blank" href="https://twitter.com/polyspacefarm">@PolySpaceFarm</a><br/>  
                     </p>

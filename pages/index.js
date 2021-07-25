@@ -32,9 +32,9 @@ export default function Home() {
               <a href="#about" className="text-5xl text-white hover:text-black m-6">About</a>   
               <a href="#roadmap" className="text-5xl text-white hover:text-black m-6">Roadmap</a>
               <a href="presale" className="text-8xl text-white hover:text-black m-6">Pre~Sale</a>  
-              <a href="index.html" className="text-5xl text-white hover:text-black m-6"> NFT Generator (WORK IN PROG.)</a>
+              <a href="#roadmap" className="text-5xl text-white hover:text-black m-6">Contact</a>
               <a href="https://twitter.com/polyspacefarm" className="text-5xl  hover:text-black m-6 text-blau">TWITTER</a>
-              <a href="" className="text-4xl  hover:text-white m-6 text-blau"></a>
+              
             </nav>
              
           </div>
@@ -48,13 +48,26 @@ export default function Home() {
             <div className="flex flex-wrap lg:flex-nowrap justify-around items-center">
                   <div className="lg:w-1/2 w-3/4">
                     <h1 className="text-7xl Poppitandfinchsans text-black ">Say Hello, to  <br/><span className="text-blau">PolySpace Farms </span></h1>
-                    <p className="text-3xl text-white my-6  montserrat"><br />‍<br />We&#x27;ve put together a group of 3 amazing devs to make sure that the communities experience is unmatched, <br/>‍<span className="text-blau text-5xl Poppitandfinchsans">Unreal </span><span className="text-5xl Poppitandfinch ">&</span><span className="text-blau text-5xl Poppitandfinchsans"> Outta this world </span> <br/> For everyone to get in on the fun we will be holding a presale  THERE WILL ONLY be 1,530,000 qSpace EVER in circulation!  (more info below)
+                    <p className="text-3xl text-white my-6  montserrat"><br />‍<br />We&#x27;ve put together a group of 3 amazing devs to make sure that the communities experience is unmatched, <br/>‍<span className="text-blau text-5xl Poppitandfinchsans">Unreal </span><span className="text-5xl Poppitandfinch ">&</span><span className="text-blau text-5xl Poppitandfinchsans"> Outta this world </span> <br/> For everyone to get in on the fun we will be holding a presale  THERE WILL ONLY be 1,000,000,000,000,000 qSpace EVER in circulation!  (more info below)
                     </p>
                     <h2 className="text-black Poppitandfinchsans text-6xl text-center">HALF OF THE REMAINING SUPPLY WILL BE BURNT DURING PRESALE!</h2>
+                    <br /><strong></strong><br />
+                    <h2 className="text-black Poppitandfinchsans text-5xl text-center">Total Tax cost per transaction</h2>
+                    
+                    <li className="text-black Poppitandfinchsans text-2xl text-center">5% $BNB Rewards- To incentivize investors to hold</li>
+                    <li className="text-black Poppitandfinchsans text-2xl text-center">5% Liquidity - Increased liquidity ensures that prices are stable and resistant to large swings caused from large transactions</li>
+                    <li className="text-black Poppitandfinchsans text-2xl text-center">2% Burn - Increased value of the token</li>
+                    <li className="text-black Poppitandfinchsans text-2xl text-center">1% Charity - Our token utility allocates charity donations to local non-profit animal organizations</li>
                     <p className="text-2xl text-black my-6  montserrat">
-                    <strong>PreSale Begins:</strong> 25 July 2021. 2pm EST. <br />‍
-                    <span className="text-white text-2xl montserrat"><strong>TOTAL SUPPLY: 1,530,000 </strong> qSpace.<br/><strong>PreSale Supply:</strong> 765,000 <br /><strong>PRICE: 1 BNB =  </strong>120 qSpace</span></p>
-                    <iframe src="https://free.timeanddate.com/countdown/i7wokvop/cf11/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw320/szh135/tac000/tpc000/mac000/mpc000/iso2021-07-25T00:00:00" allowtransparency="true" frameborder="0" width="290" height="38"></iframe>
+                    <strong>PreSale Begins:</strong> 26 July 2021. 2pm EST. 
+                    <br /><strong></strong><br />
+                    
+                    <span className="text-white text-2xl montserrat"><strong>TOTAL SUPPLY: 1,000,000,000,000,000</strong> $qSpace. <strong>PancakeswapListing price:</strong> 1 BNB - 750000000000  <br />
+                    <br/><strong>PreSale Supply:</strong> 393750000000000 <br /><strong>PRICE: 1 BNB =  </strong>787500000000 $qSpace</span></p>
+                    
+                    <p className="text-2xl text-black my-6  montserrat">
+                    <strong>PreSale Round one Limits:</strong> 1 BNB upwards to 25 BNB!
+                    <br /><strong></strong><br /> </p>
 
                   </div>
                   <img className="lg:w-1/2 w-3/4" src="images/Hola.gif" width="500px" />
@@ -78,9 +91,10 @@ export default function Home() {
                     </p>
                     <p className="text-xl text-white my-6  montserrat"> With everyone worried about whether or not they would get to go outside the next day or whether they would get to see a loved one sick in the hospital with the virus going around.. We are bringing some light to this with our work coming.. We are hard at work to bring new things to the table in crypto! GAMES! Yeah you heard it right! Games for people to pass mean time while waiting for such Pandemics to pass over.   
                     </p>
-                    <p className="text-xl text-white my-6  montserrat"> The plan is to team up with top and upcoming NFT projects that are unique and collab to have their items put into a game and bring them to LIFE!
+                    <p className="text-xl text-white my-6  montserrat"> The plan is to team up with top and upcoming NFT projects that are unique and collab to have their items put into a game and bring them to LIFE!   We have big plans to bring along our own addition of a never seen in the crypto space a NFT generator. Just like what is used for The famous Cryptopunks we have brought that to your finger tips!   Trust us if you try to find two indetical Sets of Robots it will take you nearly a decade!
+
                     </p>
-                    <p className="text-xl text-white my-6  montserrat"> We need EVERYONES support in this time of devestation!    
+                    <p className="text-xl text-white my-6  montserrat"> 
                     </p>
                   </div>
                 </div>
@@ -124,6 +138,8 @@ export default function Home() {
                     
                     <div className="flex items-center justify-between w-full border-b-2	pb-6"></div>
                     <a href="" className="text-6xl text-center Poppitandfinchsans text-black my-4">GAMES..?</a>
+                    <a href="https://gen-virid.vercel.app/" className="text-6xl text-center hover:text-white Poppitandfinchsans text-black my-4">NFT GENerator ( WIP) </a>
+
                   </div>
        
 

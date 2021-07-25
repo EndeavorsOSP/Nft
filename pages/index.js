@@ -63,7 +63,7 @@ export default function Home() {
                     <strong>PreSale Begins:</strong> 26 July 2021. 2pm EST. 
                     <br /><strong></strong><br />
                     
-                    <span className="text-white text-2xl montserrat"><strong>TOTAL SUPPLY: 1,000,000,000,000,000</strong> $qSpace. <strong>PancakeswapListing price:</strong> 1 BNB - 750000000000  <br />
+                    <span className="text-white text-2xl montserrat"><strong>TOTAL SUPPLY: 1,000,000,000,000,000</strong> $qSpace. <strong>PancakeswapListing price:</strong> 1 BNB - 7500000000  <br />
                     <br/><strong>PreSale Supply:</strong> 393750000000000 <br /><strong>PRICE: 1 BNB =  </strong>787500000000 $qSpace</span></p>
                     
                     <p className="text-2xl text-black my-6  montserrat">

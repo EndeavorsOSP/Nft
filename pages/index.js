@@ -57,7 +57,7 @@ export default function Home() {
                     <li className="text-black Poppitandfinchsans text-2xl text-center">5% $BNB Rewards- To incentivize investors to hold</li>
                     <li className="text-black Poppitandfinchsans text-2xl text-center">5% Liquidity - Increased liquidity ensures that prices are stable and resistant to large swings caused from large transactions</li>
                     <li className="text-black Poppitandfinchsans text-2xl text-center">2% Burn - Increased value of the token</li>
-                    <li className="text-black Poppitandfinchsans text-2xl text-center">1% Charity - Our token utility allocates charity donations to local non-profit animal organizations</li>
+                    <li className="text-black Poppitandfinchsans text-2xl text-center">1% Charity - Our token utility allocates charity donations to local non-profit organizations</li>
                     <p className="text-2xl text-black my-6  montserrat">
                     <strong>PreSale Begins:</strong> 26 July 2021. 2pm EST. 
                     <br /><strong></strong><br />

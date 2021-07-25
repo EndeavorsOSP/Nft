@@ -66,7 +66,7 @@ export default function Home() {
                     <br/><strong>PreSale Supply:</strong> 393750000000000 <br /><strong>PRICE: 1 BNB =  </strong>787500000000 $qSpace</span></p>
                     
                     <p className="text-2xl text-black my-6  montserrat">
-                    <strong>PreSale Round one Limits:</strong> 1 BNB upwards to 25 BNB!
+                    <strong>PreSale Round one Limits:</strong> ONLY 1 BNB upwards to 25 BNB!
                     <br /><strong></strong><br /> </p>
 
                   </div>
